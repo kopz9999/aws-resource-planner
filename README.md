@@ -13,3 +13,5 @@ yarn install
 ```shell script
 yarn start
 ```
+
+Will create a `resources.csv` file
