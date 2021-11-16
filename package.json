@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kopz9999/aws-resource-planner#readme",
   "dependencies": {
-    "aws-sdk": "^2.643.0"
+    "aws-sdk": "^2.814.0"
   }
 }
